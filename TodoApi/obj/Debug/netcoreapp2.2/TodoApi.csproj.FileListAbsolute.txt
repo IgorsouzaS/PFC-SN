@@ -1,0 +1,14 @@
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/fredo/C#Projects/PFC/FDBranch/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
