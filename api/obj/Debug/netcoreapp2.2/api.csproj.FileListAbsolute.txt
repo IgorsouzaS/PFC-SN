@@ -1,0 +1,14 @@
+/home/fredo/Development/PFC-SALVADOR-NEON/api/bin/Debug/netcoreapp2.2/api.deps.json
+/home/fredo/Development/PFC-SALVADOR-NEON/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+/home/fredo/Development/PFC-SALVADOR-NEON/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+/home/fredo/Development/PFC-SALVADOR-NEON/api/bin/Debug/netcoreapp2.2/api.dll
+/home/fredo/Development/PFC-SALVADOR-NEON/api/bin/Debug/netcoreapp2.2/api.pdb
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.csproj.CoreCompileInputs.cache
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.dll
+/home/fredo/Development/PFC-SALVADOR-NEON/api/obj/Debug/netcoreapp2.2/api.pdb
